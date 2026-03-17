@@ -12,12 +12,12 @@ locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Yanyuan's Homepage"
 title_separator          : "|"
-name                     : &name "Yanyuan Wang (王妍元)"
-description              : &description "PhD Student in Operations Research @HKUST. Research in Stochastic Simulation, Optimization, and Reinforcement Learning."  # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://yanyuan-wang.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Heng Luo (罗恒)"
+description              : &description "PhD Student in Operations Research @Fudan University. Research in Stochastic Simulation, Optimization, and Reinforcement Learning."  # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://hengluosg.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yanyuan-wang.github.io"
+repository               : "hengluosg.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,21 +25,21 @@ repository               : "yanyuan-wang.github.io"
 author:
   # Biographic information
   avatar           : "profile-large.jpg"
-  name             : "Yanyuan Wang"
+  name             : "Heng Luo"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in OR"
-  location         : "Hong Kong SAR"
-  employer         : "HKUST"
+  location         : "Shanghai, China"
+  employer         : "Fudan University"
   uri              : 
   email            : 
 
   # Academic websites
   academia         : 
   arxiv            : 
-  googlescholar    : "https://scholar.google.com/citations?user=0zQ9zJsAAAAJ&hl"
+  googlescholar    : "https://scholar.google.com/citations?user=mI0oscAAAAAJ&hl=en"
   inspire-hep      : 
   impactstory      : 
-  orcid            : "https://orcid.org/0009-0001-6505-8989"
+  orcid            : 
   semantic         : 
   ssrn             : 
   pubmed           : 
@@ -67,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/yanyuan-wang/"
+  linkedin         : #"https://www.linkedin.com/in/yanyuan-wang/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
