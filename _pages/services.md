@@ -26,10 +26,10 @@ Committee Member
 
 Journal Reviewer
 ======
-* Looking forward to serving as a reviewer for leading journals in operations research and related fields.
+* Looking forward to....
 
 <br>
 
 Committee Member
 ======
-* Looking forward to serving on program committees of major conferences such as the Winter Simulation Conference (WSC).
+* Looking forward to....
