@@ -18,10 +18,21 @@ Education
 
 <br>
 
+
+
+
+
+
+
 Research Assistant
 ======
+
+* Fudan University,  2019-2022 
+-Advisor: Prof. Bo Hu; <a href="https://baike.baidu.com/item/%E4%B8%A5%E6%99%93/249189"><u>Prof. Xiao Yan Liu</u></a>
+- Thesis: Intelligent charging and discharging strategy for battery energy storage
+
 * Laboratory for AI-Powered Financial Technologies(City University of Hong Kong and Columbia University), Hong Kong, 2024.8-2026.8
-  - Advisor: Prof. Guangwu Liu
+  - Advisor: <a href="https://www.cb.cityu.edu.hk/staff/guanliu"><u>Prof. Guangwu Liu</u></a>
   - Topic 1: Decision-Making in Cryptocurrency Market
   - Topic 2: Reinforcement Learning in Uniswap3
 
